@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1635536499 source:c:\users\alondra\onedrive\6° semestre cucei\uso, adapatacion y explotacion de sistemas operativos\barbero-dormilon\src\barbero.cpp
+	"Barbero.h"
+
+1635536499 c:\users\alondra\onedrive\6° semestre cucei\uso, adapatacion y explotacion de sistemas operativos\barbero-dormilon\include\barbero.h
+
+1635280929 source:c:\users\alondra\onedrive\6° semestre cucei\uso, adapatacion y explotacion de sistemas operativos\barbero-dormilon\src\cliente.cpp
+	"Cliente.h"
+
+1635280380 c:\users\alondra\onedrive\6° semestre cucei\uso, adapatacion y explotacion de sistemas operativos\barbero-dormilon\include\cliente.h
+
+1635538417 source:c:\users\alondra\onedrive\6° semestre cucei\uso, adapatacion y explotacion de sistemas operativos\barbero-dormilon\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<cstdlib>
+	<stdio.h>
+	"Barbero.h"
+
